@@ -1,0 +1,1 @@
+{"version":3,"file":"app-bad-gateway-result.js","sourceRoot":"","sources":["../../src/models/app-bad-gateway-result.ts"],"names":[],"mappings":";;;AACA,yDAA+C;AAE/C,MAAa,mBAAoB,SAAQ,4BAAc;IACrD,YAAY,KAAqB,EAAE,UAAmB;QACpD,KAAK,CAAC,GAAG,EAAE,aAAa,EAAE,GAAG,KAAK,CAAC,WAAW,CAAC,IAAI,IAAI,KAAK,CAAC,OAAO,EAAE,EAAE;YACtE,UAAU;SACX,CAAC,CAAC;IACL,CAAC;CACF;AAND,kDAMC"}
