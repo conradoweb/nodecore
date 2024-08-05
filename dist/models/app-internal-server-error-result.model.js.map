@@ -1,1 +1,0 @@
-{"version":3,"file":"app-internal-server-error-result.model.js","sourceRoot":"","sources":["../../src/models/app-internal-server-error-result.model.ts"],"names":[],"mappings":";;;AAAA,yDAA+C;AAG/C,MAAa,4BAA6B,SAAQ,4BAAc;IAC9D,YAAY,MAAyB;QACnC,KAAK,CAAC,GAAG,EAAE,uBAAuB,EAAE,WAAW,EAAE,SAAS,EAAE,MAAM,CAAC,CAAC;IACtE,CAAC;CACF;AAJD,oEAIC"}
