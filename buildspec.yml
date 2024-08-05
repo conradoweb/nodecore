@@ -25,4 +25,5 @@ phases:
 
 artifacts:
   files:
-    - 'dist/**/*'
+    - 'lib/**/*'
+  discard-paths: no
