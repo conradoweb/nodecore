@@ -1,10 +1,10 @@
 {
   "name": "@ea-cross/node-core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "author": "",
   "license": "UNLICENSED",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "build": "tsc",
     "format": "prettier --write \"src/**/*.ts\"",
@@ -12,7 +12,7 @@
     "lint-report": "eslint \"{src}/**/*.ts\" --fix --format json --output-file eslint-reports/linter-report.json"
   },
   "files": [
-    "dist"
+    "lib"
   ],
   "keywords": [],
   "dependencies": {
